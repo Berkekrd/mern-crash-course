@@ -4,6 +4,12 @@
   <img src="/frontend/public/screenshot-for-readme.png" alt="Demo App Screenshot" />
 </p>
 
+<p align="center">
+  <a href="https://your-deployment-link.com" target="_blank">
+    <img src="https://mern-crash-course-1-cico.onrender.com/" alt="Live Demo Button"/>
+  </a>
+</p>
+
 ## 📘 About This Project
 
 A full-stack MERN (MongoDB, Express.js, React.js, Node.js) application that demonstrates how to build a modern web app with API development, responsive design, and deployment best practices.
